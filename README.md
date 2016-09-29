@@ -60,6 +60,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 
 ##### Brian McKenna
 - [Idris: Practical Dependent Types with Practical Examples](https://www.youtube.com/watch?v=4i7KrG1Afbk)
+- [Productionisation of Functional Optics](https://www.youtube.com/watch?v=H01dw-BMmlE)
 
 ##### Cheng Lou
 - [On the Spectrum of Abstraction](https://www.youtube.com/watch?v=mVVNJKv9esE)
@@ -159,6 +160,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Enjoy Yourself Because You Can't Change Anything Anyway: Immutable Data in the Real World](https://www.youtube.com/watch?v=bi8c55JNyGA)
 
 ##### Kris Jenkins
+- [Types All The Way Down](https://www.youtube.com/watch?v=sh4H8yzXnvw)
 - [What is Functional Programming?](https://www.youtube.com/watch?v=tQRtTSIpye4)
 
 ##### Kyle Simpson
