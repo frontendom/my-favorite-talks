@@ -138,6 +138,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Jamison Dance
 - [Rethinking All Practices: Building Applications in Elm](https://www.youtube.com/watch?v=txxKx_I39a8)
 
+##### Jared Hester
+- [Ionide and the State of F# Open Source Environment](https://www.youtube.com/watch?v=XMvSR-oRjzQ)
+
 ##### Jessica Kerr
 - [Adventures in Elm](https://www.youtube.com/watch?v=cgXhMc8M4X4)
 - [Elixir Should Take Over the World](https://www.youtube.com/watch?v=X25xOhntr6s)
