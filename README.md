@@ -87,6 +87,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### David Wilson
 - [Functional Programming with F# (Tutorial Series)](https://www.youtube.com/playlist?list=PLEoMzSkcN8oNiJ67Hd7oRGgD1d4YBxYGC)
 
+##### Don Syme
+- [The F# Path to Relaxation](https://www.youtube.com/watch?v=W-D6W7EA8gw)
+
 ##### Douglas Crockford
 - [Monads and Gonads](https://www.youtube.com/watch?v=b0EF0VTs9Dc)
 - [JavaScript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook)
