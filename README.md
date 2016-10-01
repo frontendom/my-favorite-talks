@@ -226,6 +226,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Improving Your Workflow With Code Transformation](https://www.youtube.com/watch?v=OFuDvqZmUrE)
 - [JavaScript Transformation](https://www.youtube.com/watch?v=rKuNbEwoQfQ)
 
+##### Yaron Minsky
+- [Building Web Applications Without Really Trying](https://www.youtube.com/watch?v=4nXu1xYL0eo)
+
 ---
 
 #### Multiple Speaker Talks
