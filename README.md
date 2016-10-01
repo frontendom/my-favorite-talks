@@ -18,6 +18,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Alex Wilmer
 - [Extreme Streams](https://www.youtube.com/watch?v=zAWB3lPixtk)
 
+##### Alfonso Garcia-Caro
+- [Fable: Beautiful F# to Javascript Compilation](https://www.youtube.com/watch?v=iP-50fj06Eo)
+
 ##### Andrew Clark
 - [Back to React](https://www.youtube.com/watch?v=ZVYVtUFDf28)
 - [Recomposing Your React Application](https://www.youtube.com/watch?v=zD_judE-bXk)
@@ -80,6 +83,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [The Front End Architecture Revolution](https://www.youtube.com/watch?v=nDNU2pmuJA8)
 - [Immutability, Interactivity, & JavaScript](https://www.youtube.com/watch?v=c2MrtfHMM1Y)
 - [Immutability: Putting the Dream Machine to Work](https://www.youtube.com/watch?v=SiFwRtCnxv4)
+
+##### David Wilson
+- [Functional Programming with F# (Tutorial Series)](https://www.youtube.com/playlist?list=PLEoMzSkcN8oNiJ67Hd7oRGgD1d4YBxYGC)
 
 ##### Douglas Crockford
 - [Monads and Gonads](https://www.youtube.com/watch?v=b0EF0VTs9Dc)
