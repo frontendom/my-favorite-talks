@@ -103,6 +103,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://www.youtube.com/watch?v=lKCCZTUx0sI)
 
 ##### Erik Meijer
+- [Duality and the End of Reactive](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Keynote-Duality)
 - [Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
 - [One Hacker Way](https://www.youtube.com/watch?v=FvMuPtuvP5w)
 - [What Does It Mean to Be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0)
