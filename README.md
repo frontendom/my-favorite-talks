@@ -39,6 +39,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 
 ##### Ben Lesh
 - [Async Redux Actions with RxJS](https://www.youtube.com/watch?v=sF5-V-Szo0c)
+- [RxJS 5 Thinking Reactively](https://www.youtube.com/watch?v=3LKMwkuK0ZE)
 
 ##### Bodil Stokke
 - [PureScript (Maybe This Time We Get JavaScript Right)](https://www.youtube.com/watch?v=yIlDBPiMb0o)
