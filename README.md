@@ -80,6 +80,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Agile is Dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 - [Elixir: The Power of Erlang, the Joy of Ruby](https://www.youtube.com/watch?v=lww1aZ-ldz0)
 
+##### David Khourshid
+- [Reactive Animations with CSS Variables](https://www.youtube.com/watch?v=lTCukb6Zn3g)
+
 ##### David Nolen
 - [The Front End Architecture Revolution](https://www.youtube.com/watch?v=nDNU2pmuJA8)
 - [Immutability, Interactivity, & JavaScript](https://www.youtube.com/watch?v=c2MrtfHMM1Y)
