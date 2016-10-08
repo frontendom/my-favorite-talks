@@ -236,6 +236,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Go Proverbs](https://www.youtube.com/watch?v=PAAkCSZUG1c)
 - [Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM)
 
+##### Ryan Rempel
+- [Elm in Purescript](https://www.youtube.com/watch?v=O_kWwaghZ9U)
+
 ##### Scott Wlaschin 
 [Functional Programming Design Patterns](https://www.youtube.com/watch?v=E8I19uA-wGY)
 
