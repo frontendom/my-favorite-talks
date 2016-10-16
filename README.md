@@ -216,6 +216,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Pete Hunt
 - [React: Rethinking Best Practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 
+##### Philip Wadler
+- [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU)
+
 ##### Reginald Braithwaite 
 - [The Art of the JavaScript Metaobject Protocol](https://www.youtube.com/watch?v=hp7sgLVepF8)
 - [Invent the Future, Don't Recreate the Past](https://www.youtube.com/watch?v=uYcAjr2J_rU)
