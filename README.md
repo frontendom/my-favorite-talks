@@ -42,6 +42,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [RxJS 5 Thinking Reactively](https://www.youtube.com/watch?v=3LKMwkuK0ZE)
 
 ##### Bodil Stokke
+- [Post FRP Frontend Programming (PureScript & Halogen)](https://www.youtube.com/watch?v=X5YBsy6PaDw)
 - [PureScript (Maybe This Time We Get JavaScript Right)](https://www.youtube.com/watch?v=yIlDBPiMb0o)
 - [What Every Hipster Should Know About Functional Programming](https://www.youtube.com/watch?v=mS11v99ZyJc)
 
@@ -68,6 +69,8 @@ Below is a list of  speakers & talks I have watched which have personally resona
 
 ##### Cheng Lou
 - [On the Spectrum of Abstraction](https://www.youtube.com/watch?v=mVVNJKv9esE)
+- [Taming the Meta Language (ReasonML)](https://www.youtube.com/watch?v=_0T5OSSzxms)
+- [What's in a language? (ReasonML)](https://www.youtube.com/watch?v=24S5u_4gx7w)
 
 ##### Dan Abramov
 - [Live React: Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs)
