@@ -72,6 +72,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Taming the Meta Language (ReasonML)](https://www.youtube.com/watch?v=_0T5OSSzxms)
 - [What's in a language? (ReasonML)](https://www.youtube.com/watch?v=24S5u_4gx7w)
 
+##### Conal Elliott
+- [Teaching New Tricks to Old Programs](https://www.youtube.com/watch?v=vzLK_xE9Zy8)
+
 ##### Dan Abramov
 - [Live React: Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs)
 - [The Reux Journey](https://www.youtube.com/watch?v=uvAXVMwHJXU)
