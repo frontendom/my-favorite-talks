@@ -72,6 +72,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Taming the Meta Language (ReasonML)](https://www.youtube.com/watch?v=_0T5OSSzxms)
 - [What's in a language? (ReasonML)](https://www.youtube.com/watch?v=24S5u_4gx7w)
 
+##### Claudia Doppioslash
+- [Building Single Page Web Applications with Purescript and Erlang](https://www.youtube.com/watch?v=HQkxm2P2xbY)
+
 ##### Conal Elliott
 - [Teaching New Tricks to Old Programs](https://www.youtube.com/watch?v=vzLK_xE9Zy8)
 
