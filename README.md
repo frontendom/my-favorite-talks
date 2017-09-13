@@ -21,6 +21,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Alfonso Garcia-Caro
 - [Fable: Beautiful F# to Javascript Compilation](https://www.youtube.com/watch?v=iP-50fj06Eo)
 
+##### Amar Shah
+- [Point-Free or Die: Tacit Programming in Haskell and Beyond](https://www.youtube.com/watch?v=seVSlKazsNk)
+
 ##### Andrew Clark
 - [Back to React](https://www.youtube.com/watch?v=ZVYVtUFDf28)
 - [Recomposing Your React Application](https://www.youtube.com/watch?v=zD_judE-bXk)
